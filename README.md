@@ -6,7 +6,8 @@ The labs range from getting started to more advanced, the authors are split betw
 Please feel free to submit a pull request to add another lab to the list.
 
 ## Labs
-| Complexity   | Link              | Top 5 Topic Areas |
-|:-------------|:------------------|:------------------|
-| L100 - L250  | https://aka.ms/akslab                       | Cluster Creation, intro to kubectl, Yaml composition, Deployments and Helm  |
-| L200 - L300  | https://github.com/Azure/phippyandfriends   | Ingress, Scaling, DevOps, Draft    |
+| Complexity   | Time to Complete | Link              | Top 5 Topic Areas |
+|:-------------|:-----------------|:------------------|:------------------|
+| L100 - L250  | 90 - 120 mins | https://aka.ms/akslab                       | Cluster Creation, intro to kubectl, Yaml composition, Deployments and Helm  |
+| L200 - L300  | 90 - 120 mins | https://github.com/Azure/phippyandfriends   | Ingress, Scaling, DevOps, Draft    |
+| L200 - L300  | 4 hours | https://azurecitadel.com/cloud-native/kubernetes/ | |
