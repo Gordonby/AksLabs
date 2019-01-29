@@ -10,4 +10,4 @@ Please feel free to submit a pull request to add another lab to the list.
 |:-------------|:-----------------|:------------------|:------------------|
 | L100 - L250  | 90 - 120 mins | https://aka.ms/akslab                       | Cluster Creation, intro to kubectl, Yaml composition, Deployments and Helm  |
 | L200 - L300  | 90 - 120 mins | https://github.com/Azure/phippyandfriends   | Ingress, Scaling, DevOps, Draft    |
-| L200 - L300  | 4 hours | https://azurecitadel.com/cloud-native/kubernetes/ | |
+| L200 - L300  | 4 hours | https://azurecitadel.com/cloud-native/kubernetes/ | Registry, Deployments, State, Scaling|
