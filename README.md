@@ -14,3 +14,4 @@ Please feel free to submit a pull request to add another lab to the list.
 | L300 - L400  | 8 hours | https://github.com/Microsoft/WhatTheHack/tree/master/001-IntroToKubernetes | Networking, Storage, Upgrades/Rollbacks, Monitoring and Helm |
 | L400 | 8 hours | https://github.com/Azure/kubernetes-hackfest | CI/CD, Monitoring, Security, ACI and Service Mesh |
 | L400 | 10 hours | http://aksworkshop.io/ | |
+| L400 | 4 hours | https://github.com/blueflightx7/Scaling-AKS-Istio | Istio on AKS
